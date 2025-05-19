@@ -53,3 +53,18 @@ Soy **Marc**, un francés viviendo en México con formación actuarial y enfoque
 Feel free to connect:
 - ✉️ Email: moisson.marcjose@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marcmoisson/)
+
+
+---
+
+## 🚀 Tech & Tools
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge)
+![API](https://img.shields.io/badge/API%20Integration-333?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
